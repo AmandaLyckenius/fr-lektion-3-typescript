@@ -6,6 +6,7 @@ function helloWorld(){
 
 helloWorld()
 
+//new comment, did this appear at GIT?
 
 function testDataTypes(){
     const name: string =""
